@@ -1,4 +1,5 @@
 # todos
+this isa templateproject how to use vuex with the backend api
 
 ## Project setup
 ```
