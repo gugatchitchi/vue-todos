@@ -1,25 +1,8 @@
-# todos
-this isa templateproject how to use vuex with the backend api
+This is the template project that shows usage of vuex store.
 
-## Project setup
-```
-npm install
-```
+Code is implemented in modular fashion which is easily scalable and could support complex data structures and multiple data sources.
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
